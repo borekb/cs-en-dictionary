@@ -2597,9 +2597,6 @@ SFX X   ýt          yv         ýt
 SFX X   ýt          yv¹i       ýt
 SFX X   ýt          yv¹e       ýt
 
-TRY esianrtolcdugmphbyfvkwzESIANRTOLCDUGMPHBYFVKWZ'
-NOSUGGEST !
-
 # ordinal numbers
 COMPOUNDMIN 1
 # only in compounds: 1th, 2th, 3th
